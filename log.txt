@@ -1,0 +1,23 @@
+commit 8f40c29da167ec088969f7770d3d1257c1a98655
+Author: Ayushpratap047 <pratapsingh.aayush047@gmail.com>
+Date:   Wed Dec 26 11:33:07 2018 +0530
+
+    delete file c.txt
+
+commit 4cbd2b07d2efa25d268ba14d784ad580aadf4085
+Author: Ayushpratap047 <pratapsingh.aayush047@gmail.com>
+Date:   Wed Dec 26 11:32:07 2018 +0530
+
+    Rename b.txt c.txt
+
+commit c847231deebe4d1d50f066d95aa27c0b9d6f2a73
+Author: Ayushpratap047 <pratapsingh.aayush047@gmail.com>
+Date:   Wed Dec 26 11:28:32 2018 +0530
+
+    2nd commit
+
+commit e0d8fbf6a3da3d7ebf3532af399c664573fdb19c
+Author: Ayushpratap047 <pratapsingh.aayush047@gmail.com>
+Date:   Wed Dec 26 11:26:01 2018 +0530
+
+    1st assignment
